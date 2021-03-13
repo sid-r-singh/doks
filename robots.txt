@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /doks/sitemap.xml
+Sitemap: http://sidrana.dev/sitemap.xml
