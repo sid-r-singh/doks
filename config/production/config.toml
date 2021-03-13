@@ -1,2 +1,2 @@
 baseurl = "http://sidrana.dev/doks/"
-url = doks/
+url = "/doks/"
