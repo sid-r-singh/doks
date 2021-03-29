@@ -12,7 +12,7 @@
   Modern documentation theme
 </h3>
 
-<p align="center">
+<p align="center"> 
   Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
 </p>
 
